@@ -1,0 +1,165 @@
+{
+	"info": {
+		"_postman_id": "150fd8da-8e37-493a-953e-2c25a171be51",
+		"name": "Pos Laju API (Postcode)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26696296"
+	},
+	"item": [
+		{
+			"name": "getStatebyPostCode (35600)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"postCode\": \"35600\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www-api.pos.com.my/api/getStateByPostcode",
+					"protocol": "https",
+					"host": [
+						"www-api",
+						"pos",
+						"com",
+						"my"
+					],
+					"path": [
+						"api",
+						"getStateByPostcode"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getStatebyPostCode (70594)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"postCode\": \"70594\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www-api.pos.com.my/api/getStateByPostcode",
+					"protocol": "https",
+					"host": [
+						"www-api",
+						"pos",
+						"com",
+						"my"
+					],
+					"path": [
+						"api",
+						"getStateByPostcode"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getStatebyPostCode (84000)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"postCode\": \"84000\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www-api.pos.com.my/api/getStateByPostcode",
+					"protocol": "https",
+					"host": [
+						"www-api",
+						"pos",
+						"com",
+						"my"
+					],
+					"path": [
+						"api",
+						"getStateByPostcode"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getStatebyPostCode (02600)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"postCode\": \"02600\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www-api.pos.com.my/api/getStateByPostcode",
+					"protocol": "https",
+					"host": [
+						"www-api",
+						"pos",
+						"com",
+						"my"
+					],
+					"path": [
+						"api",
+						"getStateByPostcode"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getStatebyPostCode (43800)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"postCode\": \"43800\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://www-api.pos.com.my/api/getStateByPostcode",
+					"protocol": "https",
+					"host": [
+						"www-api",
+						"pos",
+						"com",
+						"my"
+					],
+					"path": [
+						"api",
+						"getStateByPostcode"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
